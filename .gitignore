@@ -9,5 +9,11 @@
 *.log.*
 *.sig
 
+HIC.db
+data.json
+
 pkg/
 src/
+PROCESSED/
+WAITING/
+
